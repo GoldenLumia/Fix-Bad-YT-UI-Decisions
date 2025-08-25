@@ -2,9 +2,9 @@
 // @name         Fix Bad YouTube UI Decisions
 // @namespace    https://github.com/GoldenLumia
 // @version      2025-08-25
-// @description  Remove 'AI Ask' button and adds a 'Save to Playlist' button to the horizontal bar under YT videos.
-// @updateURL    https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/master/fix-bad-yt-ui-decisions.user.js
-// @downloadURL  https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/master/fix-bad-yt-ui-decisions.user.js
+// @description  Removes 'AI Ask' button and adds a 'Save to Playlist' button to the horizontal bar under YT videos.
+// @updateURL    https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/refs/heads/main/fix-bad-yt-ui-decisions.user.js
+// @downloadURL  https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/refs/heads/main/fix-bad-yt-ui-decisions.user.js
 // @author       Golden Lumia
 // @license MIT
 // @match        *://www.youtube.com/*

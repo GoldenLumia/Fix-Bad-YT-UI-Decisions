@@ -1,3 +1,4 @@
 # Fix-Bad-YT-UI-Decisions
-##[Click To Install](https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/master/fix-bad-yt-ui-decisions.user.js)
-Remove 'AI Ask' button and add a 'Save to Playlist' button to the horizontal bar under YT videos.
+Removes 'AI Ask' button and add a 'Save to Playlist' button to the horizontal bar under YT videos.
+
+[Click To Install](https://github.com/GoldenLumia/Fix-Bad-YT-UI-Decisions/raw/refs/heads/main/fix-bad-yt-ui-decisions.user.js)
